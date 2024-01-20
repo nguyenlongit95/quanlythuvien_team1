@@ -1,0 +1,32 @@
+.w-320 {
+  width: 320px;
+}
+
+.position-relative {
+  position: relative;
+}
+.icon-upadte {
+  border: none;
+  background: none;
+  position: absolute;
+  right: 15px;
+  top: 20px;
+}
+.icon-upadte:hover {
+  opacity: 0.7;
+}
+
+.height-150 {
+  height: 150px;
+}
+
+.box-dashboard {
+  height: 150px;
+  border-radius: 15px;
+  color: white;
+  font-size: 26px;
+}
+.box-dashboard p {
+  padding-top: 17%;
+  text-align: center;
+}
